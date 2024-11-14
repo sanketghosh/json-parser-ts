@@ -1,2 +1,3 @@
-# json-parser-ts
-A simple and small JSON parser in TS
+# JSON Parser TypeScript
+
+A small and simple JSON parser written in TypeScript.
